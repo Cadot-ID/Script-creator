@@ -8,7 +8,7 @@
  ## Features
 - make simple html
  ## Installation
-``python
+``bash
 git clone https://github.com/Cadot-ID/Script-creator
 cd Script-creator
 python2 script.py
