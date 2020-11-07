@@ -5,7 +5,9 @@
 [![Build](https://img.shields.io/badge/Language-python-blue.svg?maxAge=259200)]()
 [![Build](https://img.shields.io/badge/contributions-CadotID-blue.svg?style=flat)]()
 ![banner](https://user-images.githubusercontent.com/71793332/98446716-f6b42200-2151-11eb-8418-4345809cb7a1.png)
- ## Features
+ ## Information
+To add an image, please upload it at https://id.imgbb.com/ then use the small HTML sample link for example: https://i.ibb.co/nLSGp6R/images-1.jpg
+## Features
 - make simple html
  ## Installation
 ```bash
