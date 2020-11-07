@@ -1,0 +1,6 @@
+[![Build](https://img.shields.io/badge/ScriptCreator-0.1-brightgreen.svg?maxAge=259200)]()
+[![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]()
+[![Build](https://img.shields.io/badge/Supported_Android-Linux-orange.svg)]()
+[![Build](https://img.shields.io/badge/Available-Termux-red.svg?maxAge=259200)]()
+[![Build](https://img.shields.io/badge/Language-python-blue.svg?maxAge=259200)]()
+[![Build](https://img.shields.io/badge/contributions-CadotID-blue.svg?style=flat)]()
