@@ -5,3 +5,11 @@
 [![Build](https://img.shields.io/badge/Language-python-blue.svg?maxAge=259200)]()
 [![Build](https://img.shields.io/badge/contributions-CadotID-blue.svg?style=flat)]()
 ![banner](https://user-images.githubusercontent.com/71793332/98446716-f6b42200-2151-11eb-8418-4345809cb7a1.png)
+ ## Features
+- make simple html
+ ## Installation
+``python
+git clone https://github.com/Cadot-ID/Script-creator
+cd Script-creator
+python2 script.py
+``
